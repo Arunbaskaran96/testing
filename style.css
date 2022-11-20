@@ -130,6 +130,7 @@ ul li:hover{
     width: 120px;
     background-color:rgb(6, 163, 163) ;
     border-radius: 20px;
+    margin: 15px;
 }
 
 @media screen and (max-width:576px){
